@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi CV</title>
+</head>
+<body>
+    <header>
+        <h1>Jordán Sánchez Rivera</h1>
+        <!--En la siguiente línea agrego una foto muy grande desde internet-->
+        <!--<img src="https://lh3.googleusercontent.com/pw/AP1GczMAoO3p7e0sc50byc6afE_svQ7Swb-q7tkMeziotz7aQlEerfl5EGmU7-q0KOv6XTp8g9bXwef0vYcOLL8Rmjv2rpUkxhL-YthrHNpkqFsD5EYSDenSYa4GR21dZotdJFW3_R-Cl7Puluob0mkZ4qQDD74q1CUdSdamYvoUdNmSa1sgjErfeJtATgc4OwQpPRMpX3tk3HueSJwPAAzsf8pDL5V6kW5ypTTifGry2LwlehlDWz5iI9TtZJspJZZuHufTP5Nh45IIi3p2ezBObXFXmDz5pw0aW3z3-KazUHZwShUrZwfumZuvxvwQJkaZgfIIevlPI1WmQVOemLBKlVk2lUOIjLRBhNZ0pFLXQyDLr5_zKtJLT12xgr1WRSCFGmyMsu-Obk2MgygNsgKP0542RlQzVJaxn4X-jkNjNrVDCYjx5Q7Q-ktR677CjcMxCifOPkCmeVvJh9gYk-JfH19ii9PKa2_BEseB8_imdtirPway1zrnZt40nl1jSDy1I0_A1lmboFp1KpnLTT1AB3K12AZlr5pmyLaOLRkEdmHmGlS3KfB5ZGvuddZdx6mRi56Z7GsnD5_aFOEt_9n29UKE_WDrBumhN-SRt3LGh8xyHkbWw-V7iNuhhlWGB2cgyaYYOaKueGdSqEy7mFD9vg1VXkgtAJluOSS7sl43frSX8Y7-4b4Za_ql1SNk-tpoFrxhgBa4h65OU3kbX1FCMyVbXHyMbKLRI7-jJZ0a7aq3Loa-ueK8XbSK6FiMLBBZUXFtQH-MHYLY5I5qt6kP8mQUOmyp3ScyjjAtZyhVSRfCsUZFpUfnq-z8djEWhHP99tfTHrESVSf7qWWzRjnFbEnmhI4xDQKqouXCbdhmDX3iRbRBDljGjdsVglDxO05-BMV93YvveN8Txck0vs855FMskA=w683-h911-s-no-gm?authuser=0" alt="foto de perfil de una persona">-->
+        <img src="/clase3/mi foto.jpg" alt="Foto de Jordán">
+    </header>
+    <main>
+        <section>
+            <h2>Links de interés</h2>
+            <!--esta es una lista desordenada-->
+            <ul>
+                <li><a href="https://www.facebook.com/profile.php?id=100081731600584">Facebook</a></li>
+                <li><a href="mailto:jorarfer@hotmail.com">Email</a></li>
+                <li><a href="">Github</a></li>
+                
+            </ul>
+            <!--esta es una lista ordenada-->
+            <ol>
+                <li><a href="https://www.instagram.com/jordansan1884/">Instagram</a></li>
+                <li><a href="https://www.linkedin.com/in/jordan-sanchez-rivera-75997872/">Linkedin</a></li>
+                <li><a href="https://wa.me/525529668101">Whatssapp</a></li>
+            </ol>
+        </section>
+        <section>
+            <h2>Experiencia Laboral</h2>
+            <h2>2019 - actual</h2>
+            <h3>Grupo Consubanco</h3>
+            <h4>Líder de soporte a plataformas digitales</h4>
+            <p>Estoy a cargo del equipo de soporte a plataformas digitales
+                que se encarga de detectar y resolver issues en las 
+                apps que se desarrollan en el grupo</p>
+            <h2>2019 - 2019</h2>
+            <h3>Hrratings</h3>
+            <h4>Jefe de sistemas</h4>
+            <p>Creé el área de soporte e infraestructura, diseñé procesos
+                que optimizaron los proyectos junto con el equipo de desarrollo
+                para lograr la medición de rating televisivo de grandes empresas
+                de telecomunicaciones.</p>
+            </section>
+        <section>
+            <h2>Experiencia académica</h2>
+            <h2>2003 - 2007</h2>
+            <h3>UNAM</h3>
+            <h4>Licenciatura en Informática</h4>
+            <p>Cursé la licenciatura de informática con especialidad en sistemas operativos</p>
+        </section>
+     
+
+    </main>
+    
+
+</body>
+</html>
