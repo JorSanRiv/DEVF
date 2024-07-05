@@ -1,0 +1,50 @@
+h2 {
+    color: rgba(4, 10, 6, 0.842);
+    border: solid white;
+}
+
+h3 {
+    color: blueviolet;
+    font-size: x-large;
+}
+
+h1 {
+    color:rgba(12, 14, 15, 0.712);
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #77767C;
+    font-style: oblique;
+    text-align: center; 
+    text-transform: uppercase;
+    border: solid 4px #f2f1f78c
+}
+
+h5 {
+    font-size: x-large;
+    text-transform: uppercase;
+    background-color: rgba(90, 86, 86, 0.425);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(24, 23, 22);
+    text-align: center;
+}
+
+main{
+    display: flex;
+}
+
+.secciones {
+    color: rgb(223, 47, 47);
+    background-color: rgba(202, 209, 203, 0.733);
+    margin: 10px;
+    border: solid 5px black;
+
+
+}
+
+#academia {
+    color: rgb(21, 36, 170);
+    background-color: rgba(206, 202, 198, 0.205);
+    background-image: url(https://www.nextiva.com/blog/wp-content/uploads/sites/2/it-manager-career-path-feature-image.jpg);
+    background-size: contain;
+    
+}
