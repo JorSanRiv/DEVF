@@ -1,0 +1,28 @@
+header{
+    background-color: rgba(255, 238, 0, 0.993);
+    color: darkblue;
+    a{
+        margin-left: 16px;
+    }
+    font-family: "Bona Nova SC", serif;
+    
+}
+.productos{
+    background-color: rgba(161, 9, 80, 0.904);
+    border: solid;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 40px;
+    text-align: center;
+    padding: 5px;
+}
+.productos img{
+    width: 260px;
+}
+#acústicas p {
+    font-size: 16px;
+}
+main{
+    justify-content: center;
+    display: flex;
+}
